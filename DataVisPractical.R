@@ -1,4 +1,4 @@
-scorings <- read.csv(file = 'C:/Users/maril/Documents/Bioinformatica/BiBC Essentials/PracticalEssentialsCourseUUSeptember212021/Scorings.csv', sep=";")
+scorings <- read.csv(file = 'Scorings.csv', sep=";")
 head(scorings)
 
 install.packages("ggplot2")
